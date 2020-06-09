@@ -1,0 +1,15 @@
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\bin\Debug\BuyAuto.exe.config
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\bin\Debug\BuyAuto.exe
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\bin\Debug\BuyAuto.pdb
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.csprojAssemblyReference.cache
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Form1.resources
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Properties.Resources.resources
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.csproj.GenerateResource.cache
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.csproj.CoreCompileInputs.cache
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.exe
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.pdb
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Form2.resources
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Form3.resources
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Form4.resources
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Form5.resources
+C:\Users\Миронов\source\repos\BuyAuto\BuyAuto\obj\Debug\BuyAuto.Form6.resources
